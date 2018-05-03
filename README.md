@@ -1,5 +1,7 @@
-# nginx-umi.cms
-This is sample configs of nginx for [umi.cms](https://www.umi-cms.ru/)
+# nginx-conf
+This is sample configs of nginx for:
+- [laravel](https://laravel.com/)
+- [umi.cms](https://www.umi-cms.ru/)
 
 
 ## License
